@@ -8,4 +8,4 @@ Block: 8820846
 GUID: `jn33yd1zhy18ztwtcjqdfktlpnri4gnjzbppzs6hpnrmzuanlk`
         URL: https://sepolia.etherscan.io/address/0x83f279d1fc6804a42835e5ad152477425323e49a
 
-        forge verify-contract --chain coredao 0x83f279d1FC6804a42835e5Ad152477425323e49A src/Storage.sol:Storage --etherscan-api-key ff2b39185abb4562aff9cbf8bf3f8ae1
+        <!--  -->
